@@ -341,6 +341,7 @@ margin:0;
 footer .icons{
 color:var(--social);
 font-size:1rem;
+display:flex;
 }
 footer .icons i{
 
