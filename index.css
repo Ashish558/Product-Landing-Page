@@ -382,10 +382,10 @@ display:none;
 padding-top:5rem;
 padding-bottom:5rem;
 
-min-height:100vh;
+min-height:90vh;
 display:flex;
-justify-content-center;
-align-items-center;
+justify-content:center;
+align-items:center;
 } 
 .main .column-1 {
 position:relative;
