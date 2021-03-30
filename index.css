@@ -379,13 +379,9 @@ display:none;
 /*MAIN */
 
 .main{
-padding-top:5rem;
-padding-bottom:5rem;
+padding-top:8rem;
+padding-bottom:8rem;
 
-min-height:90vh;
-display:flex;
-justify-content:center;
-align-items:center;
 } 
 .main .column-1 {
 position:relative;
@@ -452,5 +448,13 @@ margin-bottom:1.5rem;
 footer{
 padding:4rem 0;
 }
+
+}
+
+@media screen and (min-width: 992px){
+min-height:90vh;
+display:flex;
+justify-content:center;
+align-items:center;
 
 }
