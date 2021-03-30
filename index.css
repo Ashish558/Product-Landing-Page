@@ -471,5 +471,20 @@ padding-top:9rem;
 padding-bottom:9rem;
 
 }
+.container-4{
+padding-top:9rem;
+padding-bottom:9rem;
+}
+.container4 .column-1{
+display:flex;
+flex-direction:column;
+justify-content:center;
+
+}
+.container-4 .title,
+.container-4 .text{
+margin-bottom:2rem;
+}
+
 
 }
