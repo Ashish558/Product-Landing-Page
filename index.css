@@ -471,16 +471,18 @@ padding-top:9rem;
 padding-bottom:9rem;
 
 }
-.container-4{
+.container-3{
 padding-top:9rem;
 padding-bottom:9rem;
 }
-.container4 .column-1{
+.container-3 .column-1{
 display:flex;
 flex-direction:column;
 justify-content:center;
 
 }
+.container-3 .title,
+.container-3 .text,
 .container-4 .title,
 .container-4 .text{
 margin-bottom:2rem;
