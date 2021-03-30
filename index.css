@@ -461,7 +461,15 @@ align-items:center;
 .bg-img{
 transform:scale(3.5) translateY(-10%)
 }
+.main .title,
+.main .text{
+margin-bottom:2rem;
+}
+/* FEATURES*/
+.features {
+padding-top:9rem;
+padding-bottom:9rem;
 
-
+}
 
 }
