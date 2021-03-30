@@ -381,7 +381,12 @@ display:none;
 .main{
 padding-top:5rem;
 padding-bottom:5rem;
-}
+
+min-height:100vh;
+display:flex;
+justify-content-center;
+align-items-center;
+} 
 .main .column-1 {
 position:relative;
 z-index:100;
